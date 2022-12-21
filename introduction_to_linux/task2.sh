@@ -1,3 +1,4 @@
+#!/bin/bash
 if [[ $1 -eq 1 ]]; then
     echo "$1 student"
 elif [[ $1 -gt 1 && $1 -le 4 ]]; then

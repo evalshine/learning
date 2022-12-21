@@ -1,4 +1,5 @@
 #!/bin/bash
+# simple console calculator
 while [[ true ]]
 do
     ops='+-/*%**'

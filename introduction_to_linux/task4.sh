@@ -1,5 +1,5 @@
 #!/bin/bash
-# поиск нод(а,б)
+# gcd
 fun_gcd () 
 {
     let gcd=0
