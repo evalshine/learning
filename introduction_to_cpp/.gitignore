@@ -1,9 +1,9 @@
 # Prerequisites
 *.d
 
-test
-task*
-test.cpp
+#manual
+task[0-9]*
+!task[0-9]*.cpp
 
 # Compiled Object files
 *.slo
