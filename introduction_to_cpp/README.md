@@ -1,0 +1,1 @@
+code example of https://stepik.org/lesson/12908
