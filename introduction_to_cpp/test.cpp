@@ -14,5 +14,6 @@ int main()
     cin >> a >> b;
     cout << a << b;
     int c, d;
+    int bb, cc;
     return 0;
 }

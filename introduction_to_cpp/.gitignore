@@ -3,6 +3,7 @@
 
 test
 task*
+test.cpp
 
 # Compiled Object files
 *.slo
