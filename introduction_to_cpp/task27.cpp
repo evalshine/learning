@@ -5,4 +5,5 @@ using namespace std;
 int main()
 {
     cout << 7 % 10;
+    cout << 1;
 }
