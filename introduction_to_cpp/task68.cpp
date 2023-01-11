@@ -7,9 +7,6 @@
 using namespace std;
 int main()
 {
-    int awdawd = 1000;
-    int cad = 123123;
-    int awd = 23;
     vector<vector<int> > values;
     for (int i = 0; i < 8; i++) {
         vector<int> tmp(2);

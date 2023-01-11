@@ -18,7 +18,7 @@ int main()
         cin >> a >> b;
         for (int j = a - 1; j < b; j++) {
             values[j] = 0;
-        }
+        }   
     }
     for (auto el : values) {
         if (el) {
