@@ -8,10 +8,7 @@
 using namespace std;
 
 int fib(int a, int b, int i, int n) {
-    if (n == 1) {
-        return 1;
-    }
-    if (i == n) {
+    if (i == n || n == 1) {
         return b;
     }
     fib(b, a + b, ++i, n);

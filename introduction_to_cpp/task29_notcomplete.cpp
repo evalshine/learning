@@ -3,8 +3,13 @@
 */
 
 #include <iostream>
-using namespace std;  // 2 > 1 || 1 > 2, можно ворочать
-int main()
-{
-    
+using namespace std;
+  // 2 > 1 || 1 > 2, можно ворочать
+int main() {
+    int a, b, c, x, y, z;
+    cin >> a >> b >> c >> x >> y >> z;
+
+    if (b > a) {
+
+    }   
 }
