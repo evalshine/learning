@@ -1,6 +1,8 @@
 # Prerequisites
 *.d
 
+.vscode
+
 #manual
 task[0-9]*
 !task[0-9]*.cpp
